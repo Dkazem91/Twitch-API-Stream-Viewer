@@ -1,0 +1,51 @@
+img{
+  border-radius:100%;
+  width:20%;
+ padding-left:3%;
+  padding-right:3%;
+}
+p{
+  
+}
+body{
+
+  background-color: #6441a5;
+}
+.nav-link{
+color:white;
+}
+.nav li a{
+border-radius:10px;
+  border:5px solid #6441a5;
+  font-weight:bold;
+  
+}
+.nav li a:hover{
+    background: #6441a5;
+  border-radius:10px;
+  border:5px solid #4b307b;
+  color:white;
+  transition:all 1s ease-in-out;
+}
+.nav li a:focus{
+  border-radius:10px;
+  border:5px solid #4b307b;
+    background: #6441a5;
+  color:white;
+}
+.list-group{
+  border:10px solid #4b307b;
+  border-radius:1%;
+ 
+}
+.nav{
+ border:none;
+}
+
+div{
+  margin-top:10px;
+}
+
+ul,h1{
+margin-left:25%;
+}
